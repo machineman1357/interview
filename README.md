@@ -8,6 +8,7 @@
 	* [Guides](#guides)
 	* [Misc](#misc)
 * [Guides](#guides-1)
+	* [Google Tech Dev](https://techdevguide.withgoogle.com/resources/?no-filter=true)
 	* [Articles](#articles)
 	* [Books](#books)
 	* [Courses](#courses)
